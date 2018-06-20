@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "873747510159",
+    "firebase_url": "https://service-bb750.firebaseio.com",
+    "project_id": "service-bb750",
+    "storage_bucket": "service-bb750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:873747510159:android:63e129431e4e105c",
+        "android_client_info": {
+          "package_name": "com.minermob.service"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "873747510159-8lflfh9kf83750lu87ne57dnv0ccnd3k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.minermob.service",
+            "certificate_hash": "89514457ed49e9a08eff494dde6b0bec11088210"
+          }
+        },
+        {
+          "client_id": "873747510159-2thqsu7dioirv9fgks079inh90a67740.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYw9J6ixJpIgb-Q_ISMazPYo0qFk2EUmE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "873747510159-2thqsu7dioirv9fgks079inh90a67740.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
